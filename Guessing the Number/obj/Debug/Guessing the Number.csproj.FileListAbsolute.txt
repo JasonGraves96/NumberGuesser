@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\bin\Debug\Guessing the Number.exe.config
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\bin\Debug\Guessing the Number.exe
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\bin\Debug\Guessing the Number.pdb
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing the Number.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing_the_Number.Form1.resources
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing_the_Number.Properties.Resources.resources
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing the Number.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing the Number.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing the Number.exe
+C:\Users\Jason\source\repos\Guessing the Number\Guessing the Number\obj\Debug\Guessing the Number.pdb
